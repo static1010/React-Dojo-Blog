@@ -1,0 +1,11 @@
+Design:
+
+https://material.io/
+
+https://getbootstrap.com/
+
+https://tailwindcss.com/
+
+https://projects.lukehaas.me/css-loaders/
+
+https://iconmonstr.com/
